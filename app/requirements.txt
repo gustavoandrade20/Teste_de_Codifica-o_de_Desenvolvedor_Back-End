@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2
+passlib[bcrypt]
+python-jose
+pydantic
+pydantic-settings
+pytest
+twilio
+sentry-sdk
